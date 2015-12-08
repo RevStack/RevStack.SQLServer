@@ -1,0 +1,9 @@
+C:\Users\David\Repositories\RevStack.SQL\RevStack.SQL\obj\Debug\RevStack.SQL.csprojResolveAssemblyReference.cache
+C:\Users\David\Repositories\RevStack.SQL\RevStack.SQL\bin\Debug\RevStack.SQL.dll
+C:\Users\David\Repositories\RevStack.SQL\RevStack.SQL\bin\Debug\RevStack.SQL.pdb
+C:\Users\David\Repositories\RevStack.SQL\RevStack.SQL\bin\Debug\Dapper.dll
+C:\Users\David\Repositories\RevStack.SQL\RevStack.SQL\bin\Debug\RevStack.Pattern.dll
+C:\Users\David\Repositories\RevStack.SQL\RevStack.SQL\bin\Debug\Dapper.pdb
+C:\Users\David\Repositories\RevStack.SQL\RevStack.SQL\bin\Debug\Dapper.xml
+C:\Users\David\Repositories\RevStack.SQL\RevStack.SQL\obj\Debug\RevStack.SQL.dll
+C:\Users\David\Repositories\RevStack.SQL\RevStack.SQL\obj\Debug\RevStack.SQL.pdb
