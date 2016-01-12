@@ -2,10 +2,9 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
 using RevStack.Pattern;
 using System.Linq.Expressions;
-using System.Collections.ObjectModel;
+
 
 namespace RevStack.SQL
 {
@@ -45,9 +44,5 @@ namespace RevStack.SQL
             _database.Delete<TEntity>(entity);
         }
 
-        public void Execute(string command)
-        {
-            _database.Execute(command);
-        }
     }
 }

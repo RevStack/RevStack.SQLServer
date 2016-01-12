@@ -1,6 +1,6 @@
 {
   "name": "RevStack.SQLServer",
-  "version": "0.9.0",
+  "version": "0.9.1",
   "description": "SQL Server implementation of the RevStack c# repository pattern",
   "main": "RevStack.SQL.sin",
   "scripts": {

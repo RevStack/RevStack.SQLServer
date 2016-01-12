@@ -1,0 +1,16 @@
+\\Mac\Home\Documents\Development\mono\RevStack\updated\RevStack.SQLServer\bin\Release\RevStack.SQL.dll
+\\Mac\Home\Documents\Development\mono\RevStack\updated\RevStack.SQLServer\bin\Release\RevStack.SQL.pdb
+\\Mac\Home\Documents\Development\mono\RevStack\updated\RevStack.SQLServer\bin\Release\Dapper.dll
+\\Mac\Home\Documents\Development\mono\RevStack\updated\RevStack.SQLServer\bin\Release\RevStack.Pattern.dll
+\\Mac\Home\Documents\Development\mono\RevStack\updated\RevStack.SQLServer\bin\Release\ServiceStack.Common.dll
+\\Mac\Home\Documents\Development\mono\RevStack\updated\RevStack.SQLServer\bin\Release\ServiceStack.Interfaces.dll
+\\Mac\Home\Documents\Development\mono\RevStack\updated\RevStack.SQLServer\bin\Release\ServiceStack.OrmLite.dll
+\\Mac\Home\Documents\Development\mono\RevStack\updated\RevStack.SQLServer\bin\Release\ServiceStack.OrmLite.SqlServer.dll
+\\Mac\Home\Documents\Development\mono\RevStack\updated\RevStack.SQLServer\bin\Release\ServiceStack.Text.dll
+\\Mac\Home\Documents\Development\mono\RevStack\updated\RevStack.SQLServer\bin\Release\Dapper.pdb
+\\Mac\Home\Documents\Development\mono\RevStack\updated\RevStack.SQLServer\bin\Release\Dapper.xml
+\\Mac\Home\Documents\Development\mono\RevStack\updated\RevStack.SQLServer\bin\Release\RevStack.Pattern.pdb
+\\Mac\Home\Documents\Development\mono\RevStack\updated\RevStack.SQLServer\bin\Release\ServiceStack.Common.xml
+\\Mac\Home\Documents\Development\mono\RevStack\updated\RevStack.SQLServer\bin\Release\ServiceStack.Text.xml
+\\Mac\Home\Documents\Development\mono\RevStack\updated\RevStack.SQLServer\obj\Release\RevStack.SQL.dll
+\\Mac\Home\Documents\Development\mono\RevStack\updated\RevStack.SQLServer\obj\Release\RevStack.SQL.pdb
