@@ -2,7 +2,7 @@
   "name": "RevStack.SQLServer",
   "version": "0.9.1",
   "description": "SQL Server implementation of the RevStack c# repository pattern",
-  "main": "RevStack.SQL.sin",
+  "main": "RevStack.SQL.sln",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
