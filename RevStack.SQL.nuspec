@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>RevStack.SQL</id>
+    <version>1.0.1</version>
+    <title>RevStack.SQL</title>
+    <authors>MIS Interactive</authors>
+    <owners>D. Sheets, S. Francis</owners>
+    <licenseUrl>https://github.com/RevStack/SQLServer/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/RevStack/SQLServer.git</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>SQL Server implementation of the RevStack c# repository pattern.</description>
+    <releaseNotes>Initial release.</releaseNotes>
+    <copyright>Copyright 2016</copyright>
+    <tags>RevStack SQLServer Repository</tags>
+  </metadata>
+</package>

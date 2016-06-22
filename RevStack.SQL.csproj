@@ -35,8 +35,9 @@
       <HintPath>packages\Dapper.1.42\lib\net45\Dapper.dll</HintPath>
       <Private>True</Private>
     </Reference>
-    <Reference Include="RevStack.Pattern">
-      <HintPath>..\RevStack.Pattern\RevStack.Pattern\bin\Release\RevStack.Pattern.dll</HintPath>
+    <Reference Include="RevStack.Pattern, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>packages\RevStack.Pattern.1.0.0\lib\net46\RevStack.Pattern.dll</HintPath>
+      <Private>True</Private>
     </Reference>
     <Reference Include="ServiceStack.Common, Version=4.0.50.0, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>packages\ServiceStack.Common.4.0.50\lib\net40\ServiceStack.Common.dll</HintPath>
@@ -78,9 +79,8 @@
   <ItemGroup>
     <None Include="packages.config" />
   </ItemGroup>
-  <ItemGroup />
   <ItemGroup>
-    <Content Include="bin\RevStack.Pattern.dll" />
+    <Folder Include="bin\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
